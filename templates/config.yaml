@@ -1,0 +1,4 @@
+base16:
+    supported-systems: [base16]
+    extension: .toml
+    output: colors
